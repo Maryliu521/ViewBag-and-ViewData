@@ -1,0 +1,22 @@
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\obj\Debug\ViewBag and ViewData.csprojResolveAssemblyReference.cache
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\obj\Debug\ViewBag and ViewData.csproj.CoreCompileInputs.cache
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\maryr\Documents\Visual Studio 2017\Repository\ASP.NET MVC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

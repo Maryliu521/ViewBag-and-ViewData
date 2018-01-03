@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>ViewBag and ViewData</h2>
+
+
+<p>@ViewBag.MyViewBagProperty</p>
+<p>@ViewData["MyViewDataProperty"]</p>
+
+<h3>Proving your ViewBag in the ViewData</h3>
+<p>@ViewData.ElementAt(0).Value</p>
+<p>@ViewData.ElementAt(1).Value</p>
+<p>@ViewData.ElementAt(2).Value</p>
+<h3>ViewBag is simple Wrapper around outside the older object called ViewData. 
+    ViewData is the original way that you use to pass date to unrelated model from the controller to the View.
+    It is a simple Key Value pair dictionary.</h3>
+
